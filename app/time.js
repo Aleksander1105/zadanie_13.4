@@ -8,6 +8,4 @@ function timeConverter(d) {
     return hDisplay + mDisplay + sDisplay; 
 }
 
-console.log(timeConverter(3700));
-
 exports.print = timeConverter;
