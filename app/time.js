@@ -10,4 +10,4 @@ function timeConverter(d) {
 
 console.log(timeConverter(3700));
 
-exports.print = timeConverter();
+exports.print = timeConverter;
