@@ -1,4 +1,4 @@
-var wnInfo = require('../modules/wnInfo.js');
+var wnInfo = require('../modules/wnInfo');
 
 process.stdin.setEncoding('utf-8');
 process.stdin.on('readable', function() {
